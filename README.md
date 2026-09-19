@@ -1,7 +1,6 @@
 # Sistema Gestor de Ventas e Inventario Express (Mini-POS)
 
 **Estudiante:** Rafael Saltarin  
-**Curso:** Unidad 1 — Fundamentos de C# (.NET 8)  
 **Institución:** Corporación Universitaria Americana  
 
 ## Descripción del Proyecto
